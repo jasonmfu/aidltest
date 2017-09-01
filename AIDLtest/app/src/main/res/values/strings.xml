@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AIDLtest</string>
+    <string name="result">Result</string>
+    <string name="test">test</string>
+
+    <string name="hint1">Vlue1</string>
+    <string name="hint2">Vlue2</string>
+
+    <string name="plus">+</string>
+    <string name="equl">=</string>
+</resources>
